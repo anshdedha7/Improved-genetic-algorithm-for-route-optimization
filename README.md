@@ -2,6 +2,8 @@
 
 This code has been used to test the algorithms as discussed in the thesis IMPROVED GENETIC ALGORITHMS FOR ROUTE OPTIMIZATION by Ansh Dedha.
 
+![Screenshot](ss.png)
+
 # How to set up code
   1. IDE used: Eclipse IDE for Java Developers, Version: 2018-09 (4.9.0). Your IDE version need not be exactly the same.
   2. Unzip the file thesis.zip.
